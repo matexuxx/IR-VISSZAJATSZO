@@ -12,3 +12,5 @@ Ez a repository "ahogy van" állapotban van, mindenféle garancia nélkül. A k�
 Jogi nyilatkozat:
 A szerző nem vállal felelősséget semmilyen jogi következményért, amely a repository használatából eredhet, ideértve, de nem kizárólagosan, a szellemi tulajdon megsértését vagy a hardverkárokért való felelősséget. A felhasználóknak javasoljuk, hogy a helyi jogszabályok és rendeletek betartásával használják és módosítsák e repository tartalmát.
 
+KÉSZÍTTETTE:NÉMETH MÁTÉ
+
